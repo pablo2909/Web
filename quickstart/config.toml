@@ -1,5 +1,5 @@
-baseURL = 'https://pablo2909.github.io/Web'
+baseURL = 'https://pablo2909.github.io'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "hugo-book"
-publishDir: "docs"
+publishDir = "docs"
