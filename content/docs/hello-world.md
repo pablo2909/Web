@@ -6,4 +6,4 @@ draft: false
 
 Hello everyone, here is our social graph project.
 
-![some image](../../images/ModelArchi.png)
+![Test Image]({{<baseurl>}}/images/ModelArchi.png)
